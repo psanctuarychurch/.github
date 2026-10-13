@@ -28,8 +28,9 @@ church's technical work, a public changelog, and a library of how things are bui
 
 The church holds two GitHub organizations, [`psanctuarychurch`](https://github.com/psanctuarychurch)
 and [`psanctuary`](https://github.com/psanctuary), so the name stays safe while the work takes shape.
-This is `psanctuarychurch`. How the two will divide the work hasn't been decided yet, and this profile is an
-honest early draft rather than a finished page. 🌱
+This is `psanctuarychurch`, the church's **professional face** on GitHub: its official home here,
+kept in order and out in the open. Its sibling, `psanctuary`, is the decentralized, playful side,
+where experiments in community-owned tools take shape. ⛪
 
 ## 🔗 Explore
 
