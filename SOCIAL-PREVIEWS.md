@@ -5,7 +5,7 @@ preview card (title, description and a share image) that it fetched **once** and
 After a share image or title changes, old previews keep showing until each app is told to look again.
 This file lists how to do that for each app, and which pages have their own tailored share image.
 
-*Generated 2026-10-13 by the arrival kit's `social/social-previews.mjs` (canonical copy in
+*Generated 2026-10-23 by the arrival kit's `social/social-previews.mjs` (canonical copy in
 [my-template](https://github.com/drasticstatic/my-template/tree/main/changelog-template/arrival/social)).
 Re-run it after deploys that add pages or change share images.*
 
@@ -28,7 +28,7 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 
 ## 🖼️ Share-image ledger
 
-15 pages checked: **12 tailored**, 3 using the default card,
+17 pages checked: **14 tailored**, 3 using the default card,
 0 with no share image.
 
 ### ✨ Pages with their own tailored share image
@@ -36,10 +36,12 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 | Page | Title | Share image |
 |---|---|---|
 | [psanctuarychurch.github.io/donate/](https://psanctuarychurch.github.io/donate/) | Donate — Psanctuary Church on GitHub | [image](https://psanctuarychurch.github.io/changelog-astro-public/og/page/donate.jpg) |
+| [psanctuarychurch.github.io/pledge/](https://psanctuarychurch.github.io/pledge/) | A pledge of support — Psanctuary Church on GitHub | [image](https://psanctuarychurch.github.io/changelog-astro-public/og/page/pledge.jpg) |
 | [psanctuarychurch.github.io/map/](https://psanctuarychurch.github.io/map/) | Map — Psanctuary Church on GitHub | [image](https://psanctuarychurch.github.io/changelog-astro-public/og/page/map.jpg) |
 | [psanctuarychurch.github.io/changelog-astro-public/changelog](https://psanctuarychurch.github.io/changelog-astro-public/changelog) | Changelog — Psanctuary Church | [image](https://psanctuarychurch.github.io/changelog-astro-public/og/page/changelog.jpg) |
 | [psanctuarychurch.github.io/changelog-astro-public/library](https://psanctuarychurch.github.io/changelog-astro-public/library) | Library — Psanctuary Church | [image](https://psanctuarychurch.github.io/changelog-astro-public/og/page/library.jpg) |
 | [psanctuarychurch.github.io/changelog-astro-public/ledger](https://psanctuarychurch.github.io/changelog-astro-public/ledger) | Ledger — Psanctuary Church AstroLog | [image](https://psanctuarychurch.github.io/changelog-astro-public/og/ledger.jpg) |
+| [psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-22-a-pledge-receipts-and-one-door](https://psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-22-a-pledge-receipts-and-one-door) | A pledge of support, receipts and taxes in the church's own words, and one door to the member network — Psanctuary Church Changelog | [image](https://psanctuarychurch.github.io/changelog-astro-public/og/changelog/github/2026-10-22-a-pledge-receipts-and-one-door.jpg) |
 | [psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in](https://psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in) | A navbar on every page, a map with pictures, and one window for every way in — Psanctuary Church Changelog | [image](https://psanctuarychurch.github.io/changelog-astro-public/og/changelog/github/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in.jpg) |
 | [psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-12-choose-how-you-arrive](https://psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-12-choose-how-you-arrive) | Choose how you arrive: a welcome, / to search, and faces on every change — Psanctuary Church Changelog | [image](https://psanctuarychurch.github.io/changelog-astro-public/og/changelog/github/2026-10-12-choose-how-you-arrive.jpg) |
 | [psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-12-every-entry-shares-with-its-own-card](https://psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-12-every-entry-shares-with-its-own-card) | Share one entry, and it arrives with its own spore print — Psanctuary Church Changelog | [image](https://psanctuarychurch.github.io/changelog-astro-public/og/changelog/github/2026-10-12-every-entry-shares-with-its-own-card.jpg) |
@@ -59,12 +61,14 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 ```
 https://psanctuarychurch.github.io/
 https://psanctuarychurch.github.io/donate/
+https://psanctuarychurch.github.io/pledge/
 https://psanctuarychurch.github.io/map/
 https://psanctuarychurch.github.io/changelog-astro-public/
 https://psanctuarychurch.github.io/changelog-astro-public/changelog
 https://psanctuarychurch.github.io/changelog-astro-public/library
 https://psanctuarychurch.github.io/changelog-astro-public/ledger
 https://psanctuarychurch.github.io/changelog-astro-public/changelog/github
+https://psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-22-a-pledge-receipts-and-one-door
 https://psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in
 https://psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-12-choose-how-you-arrive
 https://psanctuarychurch.github.io/changelog-astro-public/changelog/github/2026-10-12-every-entry-shares-with-its-own-card
