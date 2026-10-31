@@ -59,6 +59,18 @@ Every page here shares one arrival kit: choose a light (Candlelight is the churc
 a contrast when you arrive, press <kbd>/</kbd> to search, tap the book for reading mode, and see
 what's new since your last visit.
 
+## 📑 Proposals, procedures and decks
+
+How the church's GitHub home decides, does and explains its work, each page with a PDF beside it.
+
+| Where | What you'll find |
+| --- | --- |
+| 📖 [Reading room](https://psanctuarychurch.github.io/reading-room-public/) | The public front page: the decks, the procedures marked public, and how to ask for more. Members read everything in the private room behind it. |
+| 🧭 [Procedures](https://github.com/psanctuarychurch/ops-standard-operating-procedures-public) | *This is how we do it now*: the standard operating procedures an officer has marked public. |
+| 🎞️ [Decks](https://github.com/psanctuarychurch/.github/tree/main/decks) | Short walk-throughs on slides. Start with [Welcome](https://github.com/psanctuarychurch/.github/blob/main/decks/welcome.marp.pdf): where everything lives, how a change travels, and who to ask. |
+
+Proposals (*should we?*) are for members: ask the technical steward for access, as the welcome deck explains.
+
 ## 👥 People
 
 | | |
@@ -73,7 +85,9 @@ what's new since your last visit.
 | --- | --- |
 | [psanctuarychurch.github.io](https://github.com/psanctuarychurch/psanctuarychurch.github.io) | The entry portal (`/`, `/donate/`, `/pledge/`, `/map/`), which also serves the arrival kit every page here shares. |
 | [changelog-astro-public](https://github.com/psanctuarychurch/changelog-astro-public) | The AstroLog's published pages (written in a private source repository). |
-| [.github](https://github.com/psanctuarychurch/.github) | This profile, and the defaults every repository here shares. |
+| [reading-room-public](https://github.com/psanctuarychurch/reading-room-public) | The reading room's public front page, and only the pages marked public (copied in by a sync, never edited by hand). |
+| [ops-standard-operating-procedures-public](https://github.com/psanctuarychurch/ops-standard-operating-procedures-public) | The procedures marked public (copied in by a sync, never edited by hand). |
+| [.github](https://github.com/psanctuarychurch/.github) | This profile, the welcome deck in `decks/`, and the defaults every repository here shares. |
 
 ## 🤝 Community health
 
