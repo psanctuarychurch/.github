@@ -67,11 +67,16 @@ Co-Authored-By: Codex · CodexCloud · OpenAI [<model>]
 
 ## 📖 Proposals, procedures and decks
 
-- **Start with the deck:** [Welcome to Psanctuary Church](decks/welcome.marp.pdf) ([markdown](decks/welcome.marp.md)) walks
-  through where everything lives and the road a change travels.
+- **Start with the deck:** [Welcome to Psanctuary Church](decks/welcome.marp.pdf) ([html](decks/welcome.marp.html), [markdown](decks/welcome.marp.md))
+  walks seven stops: your first hour, five words, proposals, procedures, the reading room and your helper, how a change
+  travels, how to answer, and who to ask.
+- **New to GitHub?** **SOP-COM-001** *New to GitHub: your first hour*
+  ([members](https://github.com/psanctuarychurch/ops-standard-operating-procedures/blob/main/COM/SOP-COM-001-new-to-github-your-first-hour.md))
+  is the same road step by step; you type your own password, and nobody ever needs it.
 - **Proposals** (*should we?*) are in [`psanctuarychurch/proposals`](https://github.com/psanctuarychurch/proposals) (members);
   **procedures** (*how we do it now*) in the [public twin](https://github.com/psanctuarychurch/ops-standard-operating-procedures-public);
-  both gather in the [reading room](https://psanctuarychurch.github.io/reading-room-public/).
+  both gather in the reading room: the [members' room](https://github.com/psanctuarychurch/reading-room) (signed in, `readers` team)
+  and its [public room](https://psanctuarychurch.github.io/reading-room-public/) for visitors.
 - **Bringing an AI helper as a member?** Its first page is
   [WELCOME-FOR-YOUR-HELPER.md](https://github.com/psanctuarychurch/.github-private/blob/main/WELCOME-FOR-YOUR-HELPER.md)
   in the members' home (private: it opens only when you're signed in as a member).
