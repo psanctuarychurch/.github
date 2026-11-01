@@ -71,15 +71,15 @@ Co-Authored-By: Codex · CodexCloud · OpenAI [<model>]
   walks seven stops: your first hour, five words, proposals, procedures, the reading room and your helper, how a change
   travels, how to answer, and who to ask.
 - **New to GitHub?** **SOP-COM-001** *New to GitHub: your first hour*
-  ([members](https://github.com/psanctuarychurch/ops-standard-operating-procedures/blob/main/COM/SOP-COM-001-new-to-github-your-first-hour.md))
+  ([in the members' reading room](https://github.com/psanctuarychurch/reading-room/blob/main/procedures/COM/SOP-COM-001-new-to-github-your-first-hour.md))
   is the same road step by step; you type your own password, and nobody ever needs it.
-- **Proposals** (*should we?*) are in [`psanctuarychurch/proposals`](https://github.com/psanctuarychurch/proposals) (members);
+- **Proposals** (*should we?*) are written in [`psanctuarychurch/proposals`](https://github.com/psanctuarychurch/proposals) and read in the [members' reading room](https://github.com/psanctuarychurch/reading-room/tree/main/proposals) (the `readers` team reads the room, not the source repositories);
   **procedures** (*how we do it now*) in the [public twin](https://github.com/psanctuarychurch/ops-standard-operating-procedures-public);
   both gather in the reading room: the [members' room](https://github.com/psanctuarychurch/reading-room) (signed in, `readers` team)
   and its [public room](https://psanctuarychurch.github.io/reading-room-public/) for visitors.
 - **Bringing an AI helper as a member?** Its first page is
   [WELCOME-FOR-YOUR-HELPER.md](https://github.com/psanctuarychurch/.github-private/blob/main/WELCOME-FOR-YOUR-HELPER.md)
-  in the members' home (private: it opens only when you're signed in as a member).
+  in the members' home (private: it opens only for people the church has given access; a 404 means not yet).
 
 ## 🔗 More
 
